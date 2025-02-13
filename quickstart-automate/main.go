@@ -19,5 +19,6 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, world!")
+  // changed for cloud build tutorial quickstart-automate 
+  fmt.Println("Hello, universe!")
 }
